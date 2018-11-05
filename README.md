@@ -18,6 +18,6 @@ The repository for this project contains the following files:
 2. Loads the training and test datasets along with the the corresponding activity labels and features
 3. Merges the data sets keeping only the columns which reflect a mean or standard deviation
 4. Converts the activity and feautures columns into more legible and descriptive variables
-5. Creates a new data set that constains the mean and standard deviation for each variable for each activity and each subject.
+5. Creates a new data set that constains the mean and standard deviation for each variable for each activity and each subject
 6. Writes this new tidy data set to a file called tidydata.txt.
 
